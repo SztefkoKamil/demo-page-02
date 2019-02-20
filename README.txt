@@ -1,5 +1,9 @@
 
-You can visit this site at http://webkas.pl/demo-page-02/
+Project was made with HTML, CSS & JavaScript + jQuery.
+
+You can see this project here: http://webkas.pl/projects/demo-page-02
+
+
 
 
 =========================================================================
